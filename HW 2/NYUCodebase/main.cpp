@@ -30,7 +30,7 @@ public:
 	float bottom;
 };
 
-// Ball struct
+// Ball class
 class Ball {
 public:
 	Ball(float posX, float posY, float vel, float spd, float acc, float dirX, float dirY) : pos_x(posX), pos_y(posY), speed(spd), accel(acc), dx(dirX), dy(dirY) {}
