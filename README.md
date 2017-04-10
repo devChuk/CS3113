@@ -5,4 +5,6 @@ Heyo,
 
 This is my repo for CS3113 - Intro to Gram Programming class for Fall 2016. Here, I'll place all my HW for my course here.
 
+It also contains all the class notes :3
+
 All the code is written in C++. It uses SDL 2.0 to render with OpenGL.
